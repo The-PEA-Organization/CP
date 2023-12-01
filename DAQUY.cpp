@@ -3,7 +3,6 @@
 #define se second
 using namespace std;
 typedef long long ll;
-vector<ll>nn(1000021);
 bool check(string sss,string ttt)
 {
     bool o=false;
